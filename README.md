@@ -2,7 +2,7 @@
 
 Welcome! This repository showcases the hands-on projects completed while working through the **Arduino Projects Book** (included in the official Arduino Starter Kit).
 
-The projects presented here are **not original creations** — they are based entirely on the tutorials and exercises provided in the Arduino Projects Book. My goal is to **visually document and share my learning progress** as I explore and build each project.
+The projects presented here are **not original creations**. They are based entirely on the tutorials and exercises provided in the Arduino Projects Book. My goal is to **visually document and share my learning progress** as I explore and build each project.
 
 Whether you're also learning Arduino or just curious, feel free to browse through the examples and code.
 
